@@ -1,0 +1,10 @@
+node_modules
+.idea
+*.xml
+*.log
+dist
+webpack.config.js
+config.json
+awsome-icon
+bootstrap-4.1.0
+.DS_Store
